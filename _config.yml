@@ -1,0 +1,28 @@
+name: Vas.Rent
+favicon: null
+layout_spectrum: 0.8797526110429317
+typography_spectrum: 0.9141389704309404
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1644875023048371
+  lightness: 0.7265129680745304
+  saturation: 0.866661271546036
+  rhythmicContrast: 0.9614398945122957
+purpose: []
