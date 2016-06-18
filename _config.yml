@@ -2,6 +2,7 @@ name: Vas.Rent
 favicon: null
 layout_spectrum: 0.8797526110429317
 typography_spectrum: 0.9141389704309404
+title: Vas.Rent
 cta:
   domain: null
   bucket: null
